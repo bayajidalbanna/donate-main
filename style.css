@@ -1,0 +1,52 @@
+h1 {
+    font-size: 200px;
+}
+
+h2 {
+    font-size: 150px;
+}
+
+h4 {
+    font-size: 80px;
+}
+
+b {
+    font-size: 60px;
+}
+
+strong {
+    font-size: 80px;
+    background-image: linear-gradient(palegreen, rgb(19, 211, 77));
+    padding: 0px 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.color {
+    color: rgb(255, 0, 149);
+}
+
+section {
+    display: flex;
+}
+
+.text {
+    color: black;
+    text-align: right;
+    padding: 10% 5%;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    background-color: #E0EAF4;
+}
+
+.half-width img {
+    width: 70%;
+    padding-top: 10%;
+}
+
+.center {
+    text-align: center;
+}
