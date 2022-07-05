@@ -50,3 +50,18 @@ section {
 .center {
     text-align: center;
 }
+
+.amount {
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    height: 38px;
+    line-height: 40px;
+    border: 2px solid b;
+    display: inline-block;
+    float: none;
+    text-align: center;
+    width: 120px;
+    padding: 0px;
+    font-size: 14px;
+}
